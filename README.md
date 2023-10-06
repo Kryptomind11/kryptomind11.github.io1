@@ -1,0 +1,1 @@
+# kryptomind11.github.io
