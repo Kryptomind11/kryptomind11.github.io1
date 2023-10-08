@@ -1,13 +1,14 @@
 # Basketball is an amazing sport
 <a>
-<img src="MBB-WBB_BallHoop.jpg"  width="400"       height="500" />
+<img src="MBB-WBB_BallHoop.jpg"  percentage = "50%" />
 </a>
 I played basketball since I was 12 years old. Since then it is a sport that has opened a lot of door for me and get into prestigeous schools like UW
 
 <p style="font-family:verdana;" style="text-align:center;"  >
+
 ## The Beginning
 My story all started when I move to the United State from cameroon when I was 14 years old. I went to a boarding school called The MacDuffie School
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.globalboarding.org%2Fboarding-school%2Fnorth-america%2Fhigh-school-boarding-boarding-school-the-macduffie-school%2F&psig=AOvVaw1-DfT0i0C99jV6L3mWnaig&ust=1696876312944000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDVqYKL54EDFQAAAAAdAAAAABAD
+
 At the time I was not very good at the game, I struggled with coordination and understanding the game. Slowly but surely I got better and was able to build a name for myself.
 I did two wonderful years there then I transferred to a another school called Westtown school where I did another two years.
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.usnews.com%2Feducation%2Fk12%2Fpennsylvania%2Fwesttown-school-311053&psig=AOvVaw3WRLJHhE4JG2k2cbUQR0Aw&ust=1696876687846000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDy6raM54EDFQAAAAAdAAAAABAD
@@ -20,7 +21,8 @@ Next In the Summer of 2022 I tranferred to UW and I became a Husky!!
 Each year That I spend in my journey, it had given me an opportunity to grow as a person more as much as I continued to develop as a basketball player. It also helped me to cultivate my passion outside of the court
 </p>
 
-<p style="color:red;">
+<p style="background-color:tomato;">
+
 ## See also
 - [Resource 1](https://macduffie.org/)
 - [Resource 2](https://www.westtown.edu/)
