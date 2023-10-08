@@ -25,7 +25,7 @@ Next In the Summer of 2022 I tranferred to UW and I became a Husky!!
 Each year That I spend in my journey, it had given me an opportunity to grow as a person more as much as I continued to develop as a basketball player. It also helped me to cultivate my passion outside of the court
 </p>
 
-<p style="background-color:red;">
+<p style="color:red;">
 
 ## See also
 - [Resource 1](https://macduffie.org/)
