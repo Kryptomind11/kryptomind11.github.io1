@@ -22,14 +22,16 @@ The next Step in my journey was when I commited to the University of oregon. My 
 Next In the Summer of 2022 I tranferred to UW and I became a Husky!!
 
 ## Reflection
+<i>
 Each year That I spend in my journey, it had given me an opportunity to grow as a person more as much as I continued to develop as a basketball player. It also helped me to cultivate my passion outside of the court
+</i>
 </p>
 
-<p style="color:red;">
 
 ## See also
+<em>
 - [Resource 1](https://macduffie.org/)
 - [Resource 2](https://www.westtown.edu/)
 - [Resource 3](https://goducks.com/sports/mens-basketball/roster/2020-21)
 - [Resource 4](https://gohuskies.com/sports/mens-basketball/roster/franck-kepnang/15171)
-</p>
+</em>
