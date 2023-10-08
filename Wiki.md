@@ -29,9 +29,7 @@ Each year That I spend in my journey, it had given me an opportunity to grow as 
 
 
 ## See also
-<b>
 - [Resource 1](https://macduffie.org/)
 - [Resource 2](https://www.westtown.edu/)
 - [Resource 3](https://goducks.com/sports/mens-basketball/roster/2020-21)
 - [Resource 4](https://gohuskies.com/sports/mens-basketball/roster/franck-kepnang/15171)
-</b>
