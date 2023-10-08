@@ -1,6 +1,8 @@
 # Topic Title
 Basketball is an amazing sport
-<img src="MBB-WBB_BallHoop.jpg" width="400"       height="500" />
+<a>
+<img src="MBB-WBB_BallHoop.jpg" percentage = "30" />
+<a/>
 
 I played basketball since I was 12 years old. Since then it is a sport that has opened a lot of door for me and get into prestigeous schools like UW
 
