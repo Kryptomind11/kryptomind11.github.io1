@@ -1,4 +1,4 @@
 <Head>This is a test page</Head>
 <p>
-    this <strong> is very</strong> boring
+    this <strong> is very</strong> fun
 </p>
