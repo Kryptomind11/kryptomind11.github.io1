@@ -1,5 +1,4 @@
 body{
-    body {
         /* Set the default background color */
         background-color: white;   
         /* Enable the positioning of the pseudo element */
@@ -22,7 +21,6 @@ body{
           /* Animate opacity changes */
           transition: opacity 300ms;
         }
-      }
 }
 
 p{
